@@ -1,6 +1,7 @@
-# React Project
-## Setup
+# Products-Catalog Project
+## Installation
 Install dependencies
 npm install
-run development server
+##Run Development Server
 npm run dev
+
